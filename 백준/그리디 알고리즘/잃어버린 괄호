@@ -1,0 +1,13 @@
+mathmatics = input().split('-')
+result = []
+for i in mathmatics:
+    sum = 0
+    math = i.split('+')
+    for e in math:
+        sum += int(e)
+    result.append(sum)
+num = result[0]
+for i in range(1,len(result)):
+    num -= result[i]
+
+print(num)
