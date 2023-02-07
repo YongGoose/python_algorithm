@@ -18,25 +18,3 @@ for plan in plans:
         x,y = nx,ny
 
 print("현재 위치는 ({},{})입니다.".format(x,y))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
