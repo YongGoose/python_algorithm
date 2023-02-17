@@ -11,7 +11,7 @@ classroom = sorted(classroom,key=lambda classroom : classroom[1])
 # print(classroom,"\n")
 num_of_class = 0
 
-end = 99999999999999999999999
+end = 0
 for i in classroom:
     if i[0] >= end or num_of_class == 0:
         end = i[1]
