@@ -6,6 +6,7 @@
 1. [정렬](https://github.com/yongjun-hong/python_algorithm/tree/master/%EC%A0%95%EB%A0%AC)
 1. [이진탐색](https://github.com/yongjun-hong/python_algorithm/tree/master/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89)
 1. [Dynamic Programming](https://github.com/yongjun-hong/python_algorithm/tree/master/DP)
-1. [백준](https://github.com/yongjun-hong/python_algorithm/tree/master/%EB%B0%B1%EC%A4%80)
+1. [최단 경로](https://github.com/yongjun-hong/python_algorithm/tree/master/%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C)
+3. [백준](https://github.com/yongjun-hong/python_algorithm/tree/master/%EB%B0%B1%EC%A4%80)
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin0928)](https://solved.ac/kevin0928/)
