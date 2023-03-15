@@ -9,7 +9,7 @@ graph = [[] for _ in range(n + 1)]
 distance = [INF] * (n + 1)
 # 개선된 다익스트라 코드에서는 visited 리스트가 없다.
 for _ in range(m):
-    a,b,c = map(int,input().split())
+    a,b,c = map(int,input().split()) # a에서 b로 가는 값이 c이다.
     graph[a].append((b,c))
 
 def dijkstra(start):
